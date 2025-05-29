@@ -248,7 +248,7 @@ $scripts = '
 <script type="text/javascript" src="/themes/greentheme/views/site/Assets/js/contact_me.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
 <!-- <script src="https://maps.googleapis.com/maps/api/js?v=3"></script> -->
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCipS5es07ow3kYtB8z4DahmPTMwAFsvD8"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key={123}"></script>
 <script src="/themes/greentheme/views/site/Assets/js/snazzy-info-window.min.js"></script>
 <script src="/themes/greentheme/views/site/Assets/js/maps.js"></script>
 <script src="/themes/greentheme/views/site/Assets/js/swiper.min.js"></script>

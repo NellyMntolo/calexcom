@@ -117,7 +117,7 @@ include_once("search.php");
   <script src="/themes/greentheme/views/site/Assets/js/main.min.js"></script>
 
   <!-- Google Map -->
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key={123}&sensor=false"></script>
   <script src="/themes/greentheme/views/site/Assets/js/google-map.js"></script>
 
   <script src="/themes/greentheme/views/site/Assets/js/custom.js"></script>
